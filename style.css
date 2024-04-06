@@ -1,0 +1,99 @@
+body {
+  color: white;
+  background-color: rgb(53, 53, 53);
+}
+
+header {
+  margin-top: 25px;
+  text-align: center;
+  font-size: 32px;
+  height: 100px;
+}
+
+aside {
+  margin-right: 75px;
+  padding: 2px;
+  padding-left: 5px;
+  border-radius: 12px;
+  background-color: rgb(72, 69, 69);
+  width: 300px;
+  height: 80vh;
+}
+.h {
+  text-align: center;
+  font-size: 22px;
+}
+
+.inform {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.CAAT {
+  margin: 2px;
+  text-align: center;
+}
+
+.C {
+  font-size: 18px;
+}
+
+main {
+  display: flex;
+}
+section {
+  flex: 4;
+  background-color: rgb(53, 53, 53);
+  margin: 12px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.top-section,
+.bottom-section {
+  flex: 3;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 271px;
+  width: 1000px;
+}
+
+.top-left {
+  margin-bottom: 10px;
+  margin-right: 100px;
+}
+.top-right {
+  margin-bottom: 10px;
+  margin-left: 100px;
+}
+.bottom-left {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.bottom-right {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.top-left,
+.bottom-left,
+.bottom-right {
+  border: 5px;
+}
+img {
+  width: 271px;
+  height: 271px;
+  border-radius: 50%;
+}
+h1 {
+  height: 50px;
+  width: 335px;
+  position: relative;
+  bottom: 85px;
+  left: 150px;
+}
+.p1{
+    font-size: 18px;
+}
+.p2{
+    margin: 10px;
+}
