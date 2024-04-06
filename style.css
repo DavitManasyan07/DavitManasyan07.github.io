@@ -97,7 +97,14 @@ h1 {
 .p2{
   position: relative;
   right: 50px;
-  width: 300px;
+  width: 350px;
+    margin: 20px;
+    font-size: 17px;
+}
+.p23{
+  width: 600px;
+  position: relative;
+  right: 50px;
     margin: 20px;
     font-size: 17px;
 }
