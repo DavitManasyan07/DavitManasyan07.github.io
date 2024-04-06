@@ -95,5 +95,9 @@ h1 {
     font-size: 18px;
 }
 .p2{
-    margin: 10px;
+  position: relative;
+  right: 50px;
+  width: 300px;
+    margin: 20px;
+    font-size: 17px;
 }
